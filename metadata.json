@@ -1,0 +1,6 @@
+{
+  "name": "পাবনা বাস গাইড - Pabna Bus Guide",
+  "description": "পাবনা জেলার সকল বাস, রুট, কাউন্টার ও পরিবহন তথ্যের নির্ভরযোগ্য বাংলা ডিজিটাল ডিরেক্টরি ও ম্যানেজমেন্ট প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
